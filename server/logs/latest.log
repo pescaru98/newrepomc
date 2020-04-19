@@ -1,264 +1,41 @@
-[00:06:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:06:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:06:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:06:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:06:49] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[00:06:49] [Server thread/INFO]: Loading properties
-[00:06:49] [Server thread/INFO]: Default game type: SURVIVAL
-[00:06:49] [Server thread/INFO]: Generating keypair
-[00:06:49] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:273) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
-	at wd$2.run(SourceFile:110) [server.jar:?]
-[00:06:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:06:50] [Server thread/INFO]: Using default channel type
-[00:06:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:06:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:06:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:06:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:06:52] [Server thread/INFO]: Preparing level "world"
-[00:06:52] [Server thread/INFO]: Reloading ResourceManager: Default
-[00:07:20] [Server thread/INFO]: Loaded 6 recipes
-[00:07:20] [Server thread/INFO]: Loaded 825 advancements
-[00:07:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:07:24] [Server thread/INFO]: Preparing spawn area: 0%
-[00:07:24] [Server thread/INFO]: Preparing spawn area: 0%
-[00:07:24] [Server thread/INFO]: Preparing spawn area: 0%
-[00:07:24] [Server thread/INFO]: Preparing spawn area: 0%
-[00:07:24] [Server thread/INFO]: Preparing spawn area: 0%
-[00:07:24] [Server thread/INFO]: Preparing spawn area: 0%
-[00:07:24] [Server thread/INFO]: Preparing spawn area: 0%
-[00:07:25] [Server thread/INFO]: Preparing spawn area: 0%
-[00:07:30] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:07:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:07:31] [Server thread/INFO]: Preparing spawn area: 83%
-[00:07:31] [Server thread/INFO]: Preparing spawn area: 97%
-[00:07:32] [Server-Worker-1/INFO]: Preparing spawn area: 97%
-[00:07:32] [Server-Worker-1/INFO]: Preparing spawn area: 97%
-[00:07:33] [Server-Worker-1/INFO]: Preparing spawn area: 97%
-[00:07:33] [Server-Worker-1/INFO]: Preparing spawn area: 98%
-[00:07:34] [Server thread/INFO]: Time elapsed: 12448 ms
-[00:07:34] [Server thread/INFO]: Done (41.431s)! For help, type "help"
-[00:07:34] [Server thread/INFO]: alexcotocu5252[/84.195.104.176:53148] logged in with entity id 6 at (-139.70000002533197, 69.9375002, 1216.299999974668)
-[00:07:34] [Server thread/INFO]: alexcotocu5252 joined the game
-[00:07:56] [Server thread/INFO]: Florinn[/213.233.101.198:2214] logged in with entity id 283 at (-143.3253651393302, 70.0, 1215.15880359684)
-[00:07:56] [Server thread/INFO]: Florinn joined the game
-[00:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
-[00:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5212ms or 104 ticks behind
-[00:09:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4008ms or 80 ticks behind
-[00:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5451ms or 109 ticks behind
-[00:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15675ms or 313 ticks behind
-[00:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19747ms or 394 ticks behind
-[00:12:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24618ms or 492 ticks behind
-[00:12:14] [Server thread/INFO]: alexcotocu5252 has made the advancement [Best Friends Forever]
-[00:12:24] [Server thread/INFO]: [Server] Mateche Mateche
-[00:13:58] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 4.959721528611993,6.0,6.714238571305714
-[00:13:58] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 5.224104796220736,6.0,6.968306279737817
-[00:13:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8079ms or 161 ticks behind
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 6.9294466120777525,4.0,6.305026260971772
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 7.222770577684683,4.0,6.5328735907673945
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 7.515696097077341,4.0,6.764944302420417
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 7.804140388580873,4.0,7.0043446328224945
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 8.0870921885796,3.9231679985046384,7.251111688546644
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 8.251158889787204,3.772546541336993,7.395227965003414
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 8.410031406740968,3.5510576895623984,7.5359382610083685
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 8.564271750043659,3.261507790682643,7.673611103559097
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 8.71438112076527,3.0,7.808575145041232
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 8.973826944760194,3.0,8.050810047678624
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 9.23822951571556,3.0,8.302299081412002
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 9.505284343142584,3.0,8.558739816187426
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 9.773758340127303,3.0,8.817830107464033
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.042991706447157,3.0,9.078338123598087
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.31263139615805,3.0,9.339604736037018
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.581726585429216,3.0,9.602057569862609
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.849277532388228,3.0,9.866407396667455
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 11.114123078175599,3.0,10.133618308049108
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 11.37544299804588,3.0,10.40433836133775
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 11.633745085524865,3.0,10.67798621955967
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 11.890432391060356,3.0,10.953200687827348
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -26.17702386463326,-15.0,-15.470020968909466
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -26.17702386463326,-15.0,-15.470020968909466
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -25.921200596720453,-15.0,-15.193968238841308
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -25.66470831785604,-15.0,-14.918517104660395
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -25.404998699997705,-15.0,-14.646126952783561
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -25.142933970217896,-14.0,-14.375998649319854
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -24.879609067004772,-14.0,-14.107080615845689
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -24.61560987011263,-14.0,-13.838810173712545
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -24.351249872116806,-14.0,-13.570886244794565
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -24.086696816644007,-13.0,-13.303147728189288
-[00:13:59] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -23.822040459964427,-13.0,-13.03550842201571
-[00:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[00:14:22] [Server thread/INFO]: [Florinn: Teleported Florinn to alexcotocu5252]
-[00:14:53] [Server thread/WARN]: alexcotocu5252 was kicked for floating too long!
-[00:14:53] [Server thread/INFO]: alexcotocu5252 lost connection: Flying is not enabled on this server
-[00:14:53] [Server thread/INFO]: alexcotocu5252 left the game
-[00:14:53] [Server thread/WARN]: handleDisconnection() called twice
-[00:15:01] [Server thread/INFO]: alexcotocu5252[/84.195.104.176:53161] logged in with entity id 4047 at (89.26952090597366, 63.35693120428106, 1966.5224488606173)
-[00:15:01] [Server thread/INFO]: alexcotocu5252 joined the game
-[00:15:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[00:15:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[00:17:49] [Server thread/WARN]: Donkey moved wrongly!
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.071708249063022,-0.2274534586630068,0.013080911425277009
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.279954895458332,-0.4489423104376016,0.0034671378143684706
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.482801028162498,-0.7384922093173572,-0.005897022834687959
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.68083098261809,-1.0,-0.015038578639178013
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 11.028751778409855,-1.0,-0.0310969891388595
-[00:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 9.886715297919864,-1.9231679985046384,-0.8406830874791922
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.235828602638207,-1.9231679985046384,-0.7241240362955068
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.584214739044683,-1.9231679985046384,-0.5945538831574595
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 10.930288008814273,-0.9231679985046384,-0.45357105722450797
-[00:19:12] [Server thread/WARN]: Florinn moved too quickly! -1.1747419655294493,-3.0548933470320776,9.60158665175095
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 11.273927608067652,-0.9231679985046384,-0.30387377377246594
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 11.615698006150637,-0.9231679985046384,-0.1483154922761969
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 11.955307116272138,-0.9231679985046384,0.012761952792970988
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 12.290708256560492,-0.9231679985046384,0.18265619146313838
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 12.619442995517943,-0.9231679985046384,0.3649086032573905
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 12.940550801534982,-0.9231679985046384,0.56009870343496
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 13.190181671325831,-0.9231679985046384,0.8173725335727795
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 13.393763768749182,-0.9231679985046384,1.1115942262304088
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 13.564924418583132,-0.9231679985046384,1.428838573977373
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 13.709790010426218,-0.9231679985046384,1.761603170750277
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 13.832919151996407,-0.9231679985046384,2.104981506882723
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 6.47911471090049,2.0,7.633309197190101
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 6.604118969620231,2.0,7.974009064624624
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 6.708453765629315,2.0,8.323672458099281
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 6.801728744246589,2.0,8.67813205564471
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 6.889085835086462,2.0,9.035158006361598
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 6.973276382166546,2.0,9.393557161493845
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 7.05577257481491,2.0,9.752691090930057
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 7.1373621521886434,2.0,10.112218183446203
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 7.218466617804779,2.0,10.471955649687516
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 7.299311509791664,2.0,10.83180568271473
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 7.380017509104732,2.0,11.191715947984449
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! 7.460649189717287,2.0,11.551658442326698
-[00:19:12] [Server thread/WARN]: Donkey moved wrongly!
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -15.856405184815799,0.9231679985046384,-6.3645297268012655
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -15.856405184815799,0.9231679985046384,-6.3645297268012655
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -15.856405184815799,0.9231679985046384,-6.3645297268012655
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -15.856405184815799,0.9231679985046384,-6.3645297268012655
-[00:19:12] [Server thread/WARN]: Donkey (vehicle of alexcotocu5252) moved too quickly! -15.775813270658091,0.8463359970092768,-6.004569987324885
-[00:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[00:19:48] [Server thread/INFO]: There are 2 of a max 20 players online: Florinn, alexcotocu5252
-[00:19:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[00:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8241ms or 164 ticks behind
-[00:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
-[00:20:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
-[00:21:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
-[00:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
-[00:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6637ms or 132 ticks behind
-[00:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7121ms or 142 ticks behind
-[00:23:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16747ms or 334 ticks behind
-[00:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6766ms or 135 ticks behind
-[00:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17384ms or 347 ticks behind
-[00:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12797ms or 255 ticks behind
-[00:24:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[00:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[00:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4421ms or 88 ticks behind
-[00:25:34] [Server thread/WARN]: alexcotocu5252 moved too quickly! -9.55304446664104,-3.1661092609382138,1.1715659322758256
-[00:25:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17018ms or 340 ticks behind
-[00:26:10] [Server thread/WARN]: Florinn moved too quickly! 4.470906105691256,-0.37673561378173304,9.013430471043648
-[00:26:35] [Server thread/WARN]: Florinn moved too quickly! 8.464779116765726,1.2491870787446828,5.592497945774539
-[00:26:36] [Server thread/WARN]: alexcotocu5252 moved too quickly! -1.52154129454766,2.737499952316284,-9.566850752496975
-[00:26:36] [Server thread/WARN]: Florinn moved too quickly! 10.860574638944286,0.0,10.52383406974559
-[00:26:37] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to Florinn]
-[00:26:41] [Server thread/WARN]: alexcotocu5252 moved too quickly! 0.0,-16.031041502050478,0.0
-[00:26:41] [Server thread/WARN]: alexcotocu5252 moved too quickly! 0.0,-16.031041502050478,0.0
-[00:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32694ms or 653 ticks behind
-[00:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:27:25] [Server thread/INFO]: Florinn has made the advancement [Best Friends Forever]
-[00:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[00:29:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[00:31:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! -6.439523025707331,-7.076832001495362,-2.907774539091406
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! -6.624120580027352,-7.227453458663007,-3.0313512273221477
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! -6.804386165692165,-7.448942310437602,-3.152208973108827
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! -6.980842425102651,-7.738492209317357,-3.2705623496590306
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! -7.154020127161289,-8.0,-3.3865040931127623
-[00:31:54] [Server thread/WARN]: Horse (vehicle of Florinn) moved too quickly! -5.332035921465263,0.0,-8.775593993087114
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! -8.466979213295986,-1.0,-5.2975498813784725
-[00:31:54] [Server thread/WARN]: Horse (vehicle of Florinn) moved too quickly! -5.517114168009698,0.0,-9.038961793907674
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! 12.034936558718698,0.0,7.407651550428909
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! 12.034936558718698,0.0,7.407651550428909
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! 12.034936558718698,0.0,7.407651550428909
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! 12.034936558718698,0.0,7.407651550428909
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! 12.034936558718698,0.0,7.407651550428909
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! 13.631232294085407,-0.07683200149536162,8.052300531248648
-[00:31:54] [Server thread/WARN]: Horse (vehicle of alexcotocu5252) moved too quickly! 13.427241482643353,-0.2274534586630068,8.072684905136612
-[00:31:54] [Server thread/WARN]: Horse moved wrongly!
-[00:31:54] [Server thread/WARN]: Horse moved wrongly!
-[00:31:54] [Server thread/WARN]: Horse moved wrongly!
-[00:31:54] [Server thread/WARN]: Horse moved wrongly!
-[00:31:54] [Server thread/WARN]: Horse moved wrongly!
-[00:31:54] [Server thread/WARN]: Horse moved wrongly!
-[00:31:55] [Server thread/WARN]: Horse moved wrongly!
-[00:31:55] [Server thread/WARN]: Horse moved wrongly!
-[00:31:55] [Server thread/WARN]: Horse moved wrongly!
-[00:31:55] [Server thread/WARN]: Horse moved wrongly!
-[00:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7661ms or 153 ticks behind
-[00:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8235ms or 164 ticks behind
-[00:32:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7209ms or 144 ticks behind
-[00:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[00:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[00:34:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
-[00:34:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
-[00:35:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19943ms or 398 ticks behind
-[00:35:25] [Server thread/WARN]: Horse moved wrongly!
-[00:35:25] [Server thread/WARN]: Horse moved wrongly!
-[00:35:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[00:36:19] [Server thread/WARN]: Horse moved wrongly!
-[00:36:19] [Server thread/WARN]: Horse moved wrongly!
-[00:36:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7312ms or 146 ticks behind
-[00:36:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21228ms or 424 ticks behind
-[00:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5347ms or 106 ticks behind
-[00:37:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
-[00:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
-[00:38:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
-[00:39:08] [Server thread/WARN]: Horse moved wrongly!
-[00:39:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[00:39:39] [Server thread/WARN]: Horse moved wrongly!
-[00:43:58] [Server thread/INFO]: <Florinn> -100 -1200
-[00:47:01] [Server thread/INFO]: There are 2 of a max 20 players online: Florinn, alexcotocu5252
-[00:47:05] [Server thread/INFO]: [Server] Ce faceti nana aici ?
-[00:49:05] [Server thread/WARN]: alexcotocu5252 moved wrongly!
-[00:49:36] [Server thread/INFO]: <Florinn> ne luaram cai
-[00:59:30] [Server thread/INFO]: alexcotocu5252 has made the advancement [Enchanter]
-[01:00:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[01:01:08] [Server thread/INFO]: alexcotocu5252 has made the advancement [The Parrots and the Bats]
-[01:05:54] [Server thread/INFO]: Florinn lost connection: Disconnected
-[01:05:54] [Server thread/INFO]: Florinn left the game
-[01:06:10] [Server thread/INFO]: <alexcotocu5252> cibooo
-[01:06:14] [Server thread/INFO]: <alexcotocu5252> mai dai un cs?
-[01:07:19] [Server thread/INFO]: alexcotocu5252 lost connection: Disconnected
-[01:07:19] [Server thread/INFO]: alexcotocu5252 left the game
-[01:27:03] [Server thread/INFO]: Stopping server
-[01:27:03] [Server thread/INFO]: Saving players
-[01:27:03] [Server thread/INFO]: Saving worlds
-[01:27:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:27:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:27:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:17:36] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[23:17:36] [Server thread/INFO]: Loading properties
+[23:17:36] [Server thread/INFO]: Default game type: SURVIVAL
+[23:17:36] [Server thread/INFO]: Generating keypair
+[23:17:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:17:37] [Server thread/INFO]: Using default channel type
+[23:17:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:17:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:17:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:17:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:17:39] [Server thread/INFO]: Preparing level "world"
+[23:17:39] [Server thread/INFO]: Reloading ResourceManager: Default
+[23:17:41] [Server thread/INFO]: Loaded 6 recipes
+[23:17:42] [Server thread/INFO]: Loaded 825 advancements
+[23:17:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:18:01] [Server thread/INFO]: Preparing spawn area: 0%
+[23:18:01] [Server thread/INFO]: Preparing spawn area: 0%
+[23:18:01] [Server thread/INFO]: Preparing spawn area: 0%
+[23:18:01] [Server thread/INFO]: Preparing spawn area: 0%
+[23:18:01] [Server thread/INFO]: Preparing spawn area: 62%
+[23:18:05] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[23:18:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[23:18:05] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[23:18:05] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[23:18:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[23:18:05] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[23:18:05] [Server thread/INFO]: Preparing spawn area: 83%
+[23:18:05] [Server-Worker-2/INFO]: Preparing spawn area: 97%
+[23:18:06] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[23:18:06] [Server thread/INFO]: Preparing spawn area: 98%
+[23:18:07] [Server thread/INFO]: Time elapsed: 7121 ms
+[23:18:07] [Server thread/INFO]: Done (27.603s)! For help, type "help"
+[23:19:23] [Server thread/INFO]: alexcotocu5252[/84.195.104.176:50632] logged in with entity id 6 at (-165.94881094360744, 71.7531999805212, 1194.533625580997)
+[23:19:23] [Server thread/INFO]: alexcotocu5252 joined the game
+[23:19:41] [Server thread/INFO]: alexcotocu5252 lost connection: Disconnected
+[23:19:41] [Server thread/INFO]: alexcotocu5252 left the game
