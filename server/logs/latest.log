@@ -1,41 +1,226 @@
-[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:17:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:17:36] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[23:17:36] [Server thread/INFO]: Loading properties
-[23:17:36] [Server thread/INFO]: Default game type: SURVIVAL
-[23:17:36] [Server thread/INFO]: Generating keypair
-[23:17:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:17:37] [Server thread/INFO]: Using default channel type
-[23:17:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:17:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:17:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:17:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:17:39] [Server thread/INFO]: Preparing level "world"
-[23:17:39] [Server thread/INFO]: Reloading ResourceManager: Default
-[23:17:41] [Server thread/INFO]: Loaded 6 recipes
-[23:17:42] [Server thread/INFO]: Loaded 825 advancements
-[23:17:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:18:01] [Server thread/INFO]: Preparing spawn area: 0%
-[23:18:01] [Server thread/INFO]: Preparing spawn area: 0%
-[23:18:01] [Server thread/INFO]: Preparing spawn area: 0%
-[23:18:01] [Server thread/INFO]: Preparing spawn area: 0%
-[23:18:01] [Server thread/INFO]: Preparing spawn area: 62%
-[23:18:05] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[23:18:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[23:18:05] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[23:18:05] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[23:18:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[23:18:05] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[23:18:05] [Server thread/INFO]: Preparing spawn area: 83%
-[23:18:05] [Server-Worker-2/INFO]: Preparing spawn area: 97%
-[23:18:06] [Server-Worker-1/INFO]: Preparing spawn area: 97%
-[23:18:06] [Server thread/INFO]: Preparing spawn area: 98%
-[23:18:07] [Server thread/INFO]: Time elapsed: 7121 ms
-[23:18:07] [Server thread/INFO]: Done (27.603s)! For help, type "help"
-[23:19:23] [Server thread/INFO]: alexcotocu5252[/84.195.104.176:50632] logged in with entity id 6 at (-165.94881094360744, 71.7531999805212, 1194.533625580997)
-[23:19:23] [Server thread/INFO]: alexcotocu5252 joined the game
-[23:19:41] [Server thread/INFO]: alexcotocu5252 lost connection: Disconnected
-[23:19:41] [Server thread/INFO]: alexcotocu5252 left the game
+[15:58:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:58:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:58:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:58:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:58:00] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:58:00] [Server thread/INFO]: Loading properties
+[15:58:00] [Server thread/INFO]: Default game type: SURVIVAL
+[15:58:00] [Server thread/INFO]: Generating keypair
+[15:58:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:58:01] [Server thread/INFO]: Using default channel type
+[15:58:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:58:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:58:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:58:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:58:03] [Server thread/INFO]: Preparing level "world"
+[15:58:03] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:58:05] [Server thread/INFO]: Loaded 6 recipes
+[15:58:06] [Server thread/INFO]: Loaded 825 advancements
+[15:58:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:58:29] [Server thread/INFO]: Preparing spawn area: 0%
+[15:58:29] [Server thread/INFO]: Preparing spawn area: 0%
+[15:58:29] [Server thread/INFO]: Preparing spawn area: 0%
+[15:58:29] [Server thread/INFO]: Preparing spawn area: 0%
+[15:58:29] [Server thread/INFO]: Preparing spawn area: 0%
+[15:58:33] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[15:58:33] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[15:58:33] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[15:58:33] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[15:58:33] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[15:58:33] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[15:58:33] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[15:58:33] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[15:58:34] [Server-Worker-3/INFO]: Preparing spawn area: 97%
+[15:58:34] [Server-Worker-3/INFO]: Preparing spawn area: 97%
+[15:58:35] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[15:58:35] [Server thread/INFO]: Time elapsed: 7922 ms
+[15:58:35] [Server thread/INFO]: Done (32.459s)! For help, type "help"
+[16:03:45] [Server thread/INFO]: alexcotocu5252[/84.195.104.176:51400] logged in with entity id 6 at (-158.41216779609093, 71.0, 1193.7027203188213)
+[16:03:46] [Server thread/INFO]: alexcotocu5252 joined the game
+[16:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[16:04:22] [Server thread/INFO]: Florinn[/213.233.101.9:12678] logged in with entity id 302 at (-131.92954935619534, 70.0, 1214.074100362675)
+[16:04:22] [Server thread/INFO]: Florinn joined the game
+[16:05:10] [Server thread/INFO]: <alexcotocu5252> -130 1200
+[16:06:43] [Server thread/WARN]: alexcotocu5252 moved too quickly! 2.5298558294605584,1.0,-9.809898624584548
+[16:19:33] [Server thread/INFO]: Florinn has made the advancement [Enchanter]
+[16:30:31] [Server thread/WARN]: alexcotocu5252 moved wrongly!
+[16:38:39] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! -6.666166042555972,0.0,-7.902800297140516
+[16:38:39] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! -6.964134374330968,0.0,-8.166722222219732
+[16:38:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[16:39:10] [Server thread/WARN]: alexcotocu5252 moved wrongly!
+[16:39:40] [Server thread/WARN]: Florinn moved wrongly!
+[16:40:35] [Server thread/WARN]: alexcotocu5252 moved wrongly!
+[16:40:59] [Server thread/WARN]: Florinn moved wrongly!
+[16:41:08] [Server thread/WARN]: Florinn moved wrongly!
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 4.62047616754603,0.0,9.31369572822939
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 4.802570202430729,0.0,9.66981220529567
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 4.984804855124366,0.0,10.02585962974706
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 5.16716947062082,0.0,10.381843144784284
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 5.349654461277282,0.0,10.737767383013306
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 5.532251196352718,0.0,11.093636510054012
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 5.714948501402773,0.0,11.449456037026607
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 5.8977397262054865,0.0,11.805229165601986
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 6.080615478783329,0.0,12.16096053562103
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 6.262947919102658,0.0,12.516967623579717
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 6.443592643314105,0.0,12.873791646176187
+[16:43:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! 6.620979276880917,0.0,13.23209198192626
+[16:43:45] [Server thread/WARN]: alexcotocu5252 moved wrongly!
+[16:45:02] [Server thread/WARN]: Florinn moved wrongly!
+[16:45:19] [Server thread/WARN]: alexcotocu5252 moved wrongly!
+[16:46:06] [Server thread/WARN]: Florinn moved wrongly!
+[16:46:21] [Server thread/WARN]: alexcotocu5252 was kicked for floating too long!
+[16:46:21] [Server thread/INFO]: alexcotocu5252 lost connection: Flying is not enabled on this server
+[16:46:21] [Server thread/INFO]: alexcotocu5252 left the game
+[16:46:21] [Server thread/WARN]: handleDisconnection() called twice
+[16:46:29] [Server thread/INFO]: alexcotocu5252[/84.195.104.176:51417] logged in with entity id 10653 at (-236.70000002533197, 64.0000002, 834.299999974668)
+[16:46:29] [Server thread/INFO]: alexcotocu5252 joined the game
+[16:46:35] [Server thread/WARN]: alexcotocu5252 moved wrongly!
+[16:46:37] [Server thread/WARN]: Florinn moved wrongly!
+[16:46:38] [Server thread/WARN]: alexcotocu5252 moved wrongly!
+[16:46:40] [Server thread/WARN]: Florinn moved wrongly!
+[16:46:42] [Server thread/WARN]: alexcotocu5252 moved wrongly!
+[16:46:44] [Server thread/WARN]: Florinn moved wrongly!
+[16:53:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! -4.957700383539077,0.0,-9.142000777899852
+[16:53:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! -5.156096247718779,0.0,-9.489005449369131
+[16:53:41] [Server thread/WARN]: Boat (vehicle of alexcotocu5252) moved too quickly! -5.358140345696938,0.0,-9.833687447253794
+[16:53:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:42] [Server thread/WARN]: Boat moved wrongly!
+[16:53:48] [Server thread/WARN]: alexcotocu5252 moved wrongly!
+[16:53:53] [Server thread/INFO]: [Server] Nana
+[16:53:56] [Server thread/INFO]: <alexcotocu5252> da nana
+[16:54:03] [Server thread/INFO]: <alexcotocu5252> bagi un comp cV?
+[16:54:05] [Server thread/INFO]: [Server] Jucati ceva in vreo 20 d min ?
+[16:54:08] [Server thread/INFO]: [Server] Cre'ca da
+[16:54:11] [Server thread/INFO]: <alexcotocu5252> comp
+[16:54:15] [Server thread/INFO]: [Server] fo' 20 e minute
+[16:54:15] [Server thread/INFO]: <alexcotocu5252> prietenul meu esti de acord?
+[16:54:20] [Server thread/INFO]: <Florinn> da
+[16:54:23] [Server thread/INFO]: [Server] :))))
+[16:54:24] [Server thread/INFO]: <alexcotocu5252> ok
+[16:54:28] [Server thread/INFO]: [Server] Va dau eu mesaj cand
+[16:54:31] [Server thread/INFO]: <alexcotocu5252> parca nu am vb pe mess
+[16:54:33] [Server thread/INFO]: <Florinn> ok
+[16:54:34] [Server thread/INFO]: <alexcotocu5252> ok
+[16:57:03] [Server thread/INFO]: [Server] Ii dam acuma daca vreti
+[16:57:17] [Server thread/INFO]: <alexcotocu5252> ba mai fai tu treaba cat pori ca noi acuma exploram
+[16:57:25] [Server thread/INFO]: [Server] bn
+[16:57:29] [Server thread/INFO]: [Server] nu mai am treaba :))
+[16:57:34] [Server thread/INFO]: [Server] Da' va astept, imi gasesc eu ceva de facut
+[16:58:44] [Server thread/WARN]: Florinn moved too quickly! -9.809653892225697,1.0013359791121417,-2.1711823426292085
+[16:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[16:59:52] [Server thread/INFO]: [Server] Ce explorati ? 
+[16:59:57] [Server thread/INFO]: <alexcotocu5252> un sat din desert
+[16:59:58] [Server thread/INFO]: <Florinn> un satuc mare
+[17:05:41] [Server thread/INFO]: alexcotocu5252 lost connection: Disconnected
+[17:05:41] [Server thread/INFO]: alexcotocu5252 left the game
+[17:05:48] [Server thread/INFO]: alexcotocu5252[/84.195.104.176:51427] logged in with entity id 20481 at (-839.0954915575825, 70.0, -789.9921911220205)
+[17:05:48] [Server thread/INFO]: alexcotocu5252 joined the game
+[17:05:52] [Server thread/INFO]: <Florinn> MAI HAIDA
+[17:05:54] [Server thread/INFO]: <alexcotocu5252> ba maita gata
+[17:06:15] [Server thread/INFO]: <alexcotocu5252> cibooow
+[17:06:30] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:32] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:32] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:33] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:33] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:33] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:34] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:35] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:35] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:36] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:36] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:37] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:38] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:38] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:39] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:39] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:40] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:40] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:06:40] [Server thread/INFO]: <alexcotocu5252> cibooooooooooo
+[17:08:46] [Server thread/WARN]: Florinn moved too quickly! 7.418957505957678,-1.9031272476744903,-6.471306124138437
+[17:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[17:09:44] [Server thread/INFO]: <alexcotocu5252> gasiram mesa
+[17:10:28] [Server thread/INFO]: <alexcotocu5252> haida ciboo
+[17:11:39] [Server thread/INFO]: <Florinn> maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai
+[17:13:42] [Server thread/INFO]: <alexcotocu5252> cibooo
+[17:13:49] [Server thread/WARN]: alexcotocu5252 moved too quickly! 3.833955157432058,1.252203340253729,-9.374378471022283
+[17:13:49] [Server thread/WARN]: Florinn moved too quickly! -3.9774136700464737,3.1661092609382138,-8.901761563739
+[17:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[17:23:51] [Server thread/WARN]: alexcotocu5252 moved too quickly! -3.030446688591269,-8.919912590414398,-4.10478069597707
+[17:23:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[17:25:38] [Server thread/INFO]: Florinn was impaled by Drowned
+[17:25:51] [Server thread/INFO]: [Florinn: Teleported Florinn to alexcotocu5252]
+[17:27:03] [Server thread/INFO]: [Florinn: Teleported Florinn to alexcotocu5252]
+[17:27:27] [Server thread/INFO]: <alexcotocu5252> cibooo
+[17:27:34] [Server thread/INFO]: <alexcotocu5252> sa ma bata mamaiemiu esti?
+[17:28:33] [Server thread/INFO]: [Server] Da
+[17:28:35] [Server thread/INFO]: [Server] Mai stati asa
+[17:28:37] [Server thread/INFO]: <alexcotocu5252> aoleu
+[17:28:40] [Server thread/INFO]: <alexcotocu5252> mai intrii?
+[17:28:44] [Server thread/INFO]: <alexcotocu5252> ok
+[17:28:45] [Server thread/INFO]: [Server] Ca intram in vreo 10-15 min
+[17:28:53] [Server thread/INFO]: <alexcotocu5252> ok
+[17:28:53] [Server thread/WARN]: alexcotocu5252 moved too quickly! 2.296742378946192,1.7752370094690093,-9.731229930972631
+[17:28:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[17:33:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[17:36:12] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to Florinn]
+[17:37:19] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to -129.5, 60.0, 1200.5]
+[17:38:44] [Server thread/INFO]: <alexcotocu5252> -132 69 1222
+[17:38:54] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to Florinn]
+[17:39:12] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to -129.5, 60.0, 1200.5]
+[17:39:40] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to -128.5, 69.0, 1222.5]
+[17:39:55] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to Florinn]
+[17:40:24] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to -128.5, 69.0, 1222.5]
+[17:40:49] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to Florinn]
+[17:41:04] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to -128.5, 69.0, 1222.5]
+[17:41:13] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to Florinn]
+[17:41:31] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to -128.5, 69.0, 1222.5]
+[17:41:42] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to Florinn]
+[17:41:59] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to -128.5, 69.0, 1222.5]
+[17:42:47] [Server thread/INFO]: Florinn fell from a high place
+[17:42:59] [Server thread/INFO]: [Florinn: Teleported Florinn to alexcotocu5252]
+[17:45:45] [Server thread/INFO]: [Florinn: Teleported Florinn to 741.5, 63.0, -2238.5]
+[17:45:56] [Server thread/INFO]: [alexcotocu5252: Teleported alexcotocu5252 to 771.5, 63.0, -2228.5]
+[17:46:43] [Server thread/INFO]: Florinn was slain by alexcotocu5252
+[17:46:54] [Server thread/INFO]: <alexcotocu5252> maita
+[17:47:17] [Server thread/INFO]: <Florinn> maaai
+[17:47:30] [Server thread/INFO]: Florinn was blown up by Creeper
+[17:47:42] [Server thread/INFO]: Florinn was slain by alexcotocu5252
+[17:48:50] [Server thread/INFO]: <alexcotocu5252> cibo haida ba
+[17:48:57] [Server thread/INFO]: <alexcotocu5252> ca trecu o ora
+[17:49:40] [Server thread/INFO]: Florinn hit the ground too hard
+[17:53:14] [Server thread/INFO]: [Florinn: Set own game mode to Creative Mode]
+[17:55:30] [Server thread/INFO]: [Florinn: Set own game mode to Survival Mode]
+[17:57:57] [Server thread/INFO]: [Server] Daca n-aveti treaba, ii dam acuma
+[17:58:00] [Server thread/INFO]: <alexcotocu5252> haida
+[17:58:05] [Server thread/INFO]: [Server] inchid, da ?
+[17:58:08] [Server thread/INFO]: <alexcotocu5252> nu
+[17:58:11] [Server thread/INFO]: <alexcotocu5252> 2 sec
+[17:58:13] [Server thread/INFO]: [Server] Bine
+[17:58:34] [Server thread/INFO]: [Server] Dupa ce il inchid, il incarc pe un depozit de-al meu
+[17:58:43] [Server thread/INFO]: [Server] Sa avem fiecare versiune, in caz ca se fute ceva pe la el
+[17:59:03] [Server thread/INFO]: alexcotocu5252 lost connection: Disconnected
+[17:59:03] [Server thread/INFO]: alexcotocu5252 left the game
+[17:59:06] [Server thread/INFO]: Florinn lost connection: Disconnected
+[17:59:06] [Server thread/INFO]: Florinn left the game
+[17:59:09] [Server thread/INFO]: Stopping server
+[17:59:09] [Server thread/INFO]: Saving players
+[17:59:09] [Server thread/INFO]: Saving worlds
+[17:59:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:59:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:59:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
